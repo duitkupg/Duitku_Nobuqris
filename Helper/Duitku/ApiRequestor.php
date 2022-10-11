@@ -1,4 +1,5 @@
 <?php
+namespace Duitku\Nobuqris\Helper\Duitku;
 
 class Duitku_Nobuqris_ApiRequestor {
 
