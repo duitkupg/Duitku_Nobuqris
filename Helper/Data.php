@@ -14,9 +14,9 @@
  */
 
 namespace Duitku\Nobuqris\Helper;
-// include_once('Duitku/DuitkuCore.php');
+include_once('Duitku/DuitkuCore.php');
 use Duitku\Nobuqris\Helper\DuitkuConstants;
-use Duitku\Nobuqris\Helper\Duitku\Duitku_Nobuqris_Core;
+use Duitku_Nobuqris_Core;
 class Data extends \Magento\Framework\App\Helper\AbstractHelper
 {
     /**

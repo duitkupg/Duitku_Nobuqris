@@ -1,7 +1,5 @@
 <?php
-namespace Duitku\Nobuqris\Helper\Duitku;
-// include_once('ApiRequestor.php');
-use Duitku\Nobuqris\Helper\Duitku\Duitku_Nobuqris_ApiRequestor;
+include_once('ApiRequestor.php');
 class Duitku_Nobuqris_Core {
 
   public static function getRedirectionUrl($baseUrl, $params)
